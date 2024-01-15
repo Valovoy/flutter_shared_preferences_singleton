@@ -25,3 +25,11 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# IntelliJ related
+.idea/
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
